@@ -28,7 +28,7 @@ Do not change the folder structure because I have created this structure inside 
 
 ## Step-4 Run all Scripts for SQL Server staging/dbo Tables and Stored Procedures
 
-## Step-4 Run your SSIS Package through SQL Server or any other tools
+## Step-5 Run your SSIS Package through SQL Server or any other tools
 
 
 ## N.B: Do not change the folder structure because I have created this structure inside the package.
