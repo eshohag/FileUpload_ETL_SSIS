@@ -7,7 +7,10 @@ https://youtu.be/HezAiDxvlw4
 
 # Installation Guidelines:
 
-Folder Structure pieces of information:
+Folder Structure pieces of information,
+``
+Do not change the folder structure because I have created this structure inside the package.
+``
 
 ## Step-1 Create Folders 
   C:\FileUpload_ETL_SSIS
