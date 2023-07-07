@@ -5,7 +5,7 @@ SSIS .dtsx package that can loop through a folder and find File_Name*.csv. It sh
 https://youtu.be/HezAiDxvlw4
 
 
-# Installation Guidelines:
+# Installation Guidelines
 
 Folder Structure pieces of information,
 ``
