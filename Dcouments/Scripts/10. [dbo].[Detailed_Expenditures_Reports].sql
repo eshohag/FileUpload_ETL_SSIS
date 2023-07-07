@@ -1,0 +1,16 @@
+CREATE TABLE [dbo].[Detailed_Expenditures_Reports](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Meld]VARCHAR(MAX)NULL,
+	[Quantity]VARCHAR(MAX)NULL,
+	[Price]VARCHAR(MAX)NULL,
+	[Total]VARCHAR(MAX)NULL,
+	[Description]VARCHAR(MAX)NULL,
+	[CreationDate]VARCHAR(MAX)NULL,
+	[Unit]VARCHAR(MAX)NULL,
+	[PropertyName]VARCHAR(MAX)NULL,
+	[Addressline1]VARCHAR(MAX)NULL,
+	[City]VARCHAR(MAX)NULL,
+	[State]VARCHAR(MAX)NULL,
+	[Postalcode]VARCHAR(MAX)NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO

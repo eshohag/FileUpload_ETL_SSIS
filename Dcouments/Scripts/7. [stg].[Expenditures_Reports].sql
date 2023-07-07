@@ -1,0 +1,13 @@
+CREATE TABLE [stg].[Expenditures_Reports](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Meld] VARCHAR(MAX) NULL,
+	[Amount] VARCHAR(MAX) NULL,
+	[Notes] VARCHAR(MAX) NULL,
+	[Unit] VARCHAR(MAX) NULL,
+	[Property Name] VARCHAR(MAX) NULL,
+	[Address line 1] VARCHAR(MAX) NULL,
+	[City] VARCHAR(MAX) NULL,
+	[State] VARCHAR(MAX) NULL,
+	[Postal code] VARCHAR(MAX) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
